@@ -3,9 +3,7 @@ import googlemaps
 import osmnx as ox
 import networkx as nx
 import numpy as np
-from shapely.geometry import LineString
 from shapely.geometry import Point
-from shapely.geometry import Polygon
 import geopandas as gpd
 import matplotlib.pyplot as plt
 from datetime import datetime
